@@ -15,4 +15,5 @@ function calc () {
     : document.getElementById('resultN').innerHTML = (`You can lift about&nbsp;<span id="numbers">${(n * 1.1307 + 0.6998).toFixed(1)}kgs</span> for one rep!`);
 }
 
-// You can do aproximately ${(n * 1.1307 + 0.6998).toFixed(1)}kg for one rep!
+//FORMULA:
+//(n * 1.1307 + 0.6998).toFixed(1)
