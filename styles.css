@@ -55,9 +55,6 @@ input {
 #btn {
     margin: 20px;
     border: 2px solid black;
-    /* border-radius: 100px; */
-    /* height:100px;
-    width:100px; */
     outline: none;
     text-transform: uppercase;
     font-family: 'Bangers', cursive;
